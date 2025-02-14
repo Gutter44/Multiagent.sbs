@@ -34,6 +34,7 @@ An AI-powered search engine with a generative UI.
 
 ### AI Providers
 
+-Open Router AI
 - OpenAI (Default)
 - Google Generative AI
 - Azure OpenAI
@@ -41,8 +42,8 @@ An AI-powered search engine with a generative UI.
 - Ollama
 - Groq
 - DeepSeek
-- Fireworks
 - OpenAI Compatible
+- HuggingFace Inference Models
 
 ### Search Capabilities
 
@@ -70,7 +71,7 @@ An AI-powered search engine with a generative UI.
 
 ### AI & Search
 
-- [OpenAI](https://openai.com/) - Default AI provider (Optional: Google AI, Anthropic, Groq, Ollama, Azure OpenAI, DeepSeek, Fireworks)
+- [OpenAI](https://openai.com/) - Default AI provider (Optional: Google AI, Anthropic, Groq, Ollama, Azure OpenAI, DeepSeek, OpenRouter, Hugging Face)
 - [Tavily AI](https://tavily.com/) - Default search provider
 - Alternative providers:
   - [SearXNG](https://docs.searxng.org/) - Self-hosted search
