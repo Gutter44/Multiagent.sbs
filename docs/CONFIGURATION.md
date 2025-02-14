@@ -121,6 +121,20 @@ docker-compose logs searxng
 
 ## Additional AI Providers
 
+## HUGGING FACE INTERFERENCE MODEL 
+
+```bash
+HUGGING_FACE_INFERENCE_MODEL_API=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
+```
+
+
+
+## Open Router AI
+
+```bash
+OPENROUTER_API_KEY=sk-f596ebbcdb314c8d9cea5e4b93c4ad13
+```
+
 ### Google Generative AI
 
 ```bash
@@ -145,24 +159,10 @@ GROQ_API_KEY=[YOUR_API_KEY]
 OLLAMA_BASE_URL=http://localhost:11434
 ```
 
-### Azure OpenAI
-
-```bash
-AZURE_API_KEY=[YOUR_API_KEY]
-AZURE_RESOURCE_NAME=[YOUR_RESOURCE_NAME]
-NEXT_PUBLIC_AZURE_DEPLOYMENT_NAME=[YOUR_DEPLOYMENT_NAME]
-```
-
 ### DeepSeek
 
 ```
 # DEEPSEEK_API_KEY=[YOUR_API_KEY]
-```
-
-### Fireworks
-
-```
-# FIREWORKS_API_KEY=[YOUR_API_KEY]
 ```
 
 ## Other Features
