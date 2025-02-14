@@ -124,15 +124,14 @@ docker-compose logs searxng
 ## HUGGING FACE INTERFERENCE MODEL 
 
 ```bash
-HUGGING_FACE_INFERENCE_MODEL_API=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
+HUGGING_FACE_INFERENCE_MODEL_API=Your_Hugging_face_api_key
 ```
-
 
 
 ## Open Router AI
 
 ```bash
-OPENROUTER_API_KEY=sk-f596ebbcdb314c8d9cea5e4b93c4ad13
+OPENROUTER_API_KEY=Your_openrouter_api_key
 ```
 
 ### Google Generative AI
