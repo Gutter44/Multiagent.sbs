@@ -35,14 +35,13 @@ An AI-powered search engine with a generative UI.
 ### AI Providers
 
 -Open Router AI
-- OpenAI (Default)
-- Google Generative AI
+- Google Generative AI (default) 
 - Azure OpenAI
 - Anthropic
 - Ollama
 - Groq
 - DeepSeek
-- OpenAI Compatible
+- Open AI
 - HuggingFace Inference Models
 
 ### Search Capabilities
