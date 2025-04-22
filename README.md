@@ -188,7 +188,12 @@ This will allow you to use Morphic as your default search engine in the browser.
 - DeepSeek
   - DeepSeek V3
   - DeepSeek R1
-
+- Openrouter
+  - google/gemini-2.5-pro-exp-03-25:free
+  - meta-llama/llama-4-maverick
+  - openai/gpt-4.1
+  - google/gemini-2.5-flash-preview
+  - openrouter/auto
 ## ⚡ AI SDK Implementation
 
 ### Current Version: AI SDK UI
